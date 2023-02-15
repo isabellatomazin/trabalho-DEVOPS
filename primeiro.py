@@ -11,6 +11,8 @@ while True:
     else:
         print("Coloca um numero")
 
+        
+
 #Estrutura de repetição que contará até o número solicitado.
 i = 0
 while i <= num:
